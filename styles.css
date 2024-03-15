@@ -1,1 +1,27 @@
 
+.main-container {
+	display: flex;
+	width: 800px;
+	justify-content: space-between;
+	align-items: ;
+	gap:10px;
+}
+.left {
+	width: 350px;
+}
+.left img {
+	display: inline-block;
+	width: 120px;
+	height: 150px;
+}
+#left1 {
+	display: flex;
+	gap: 50px;
+}
+.right {
+	width: 250px;
+}
+.right h2 {
+	border-bottom: 5px solid aqua;
+	
+}
